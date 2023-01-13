@@ -1,0 +1,5 @@
+G->E
+E->e + T|e - T|T
+T->exp * F|T / F|F
+F->n
+FACTOR->id|id [ ExprList ]|id ( ExprList )

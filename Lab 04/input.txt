@@ -1,0 +1,4 @@
+G->E
+E->e + T|e - T|T
+T->T * F|T / F|F
+F->N
